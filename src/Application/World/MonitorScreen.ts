@@ -184,7 +184,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'https://web.dorf.nyc';
+        iframe.src = 'https://globe.dorf.nyc';
         /**
          * Use dev server is query params are present
          *
